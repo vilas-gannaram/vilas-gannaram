@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Vilas-Gannaram
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on buddy projects
+# Hello, I'm Vilas Gannaram! 👋
 
-<!---
-Vilas-Gannaram/Vilas-Gannaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a junior web developer passionate about creating interactive and user-friendly web applications. I'm constantly learning and expanding my skills to stay up-to-date with the latest web technologies.
+
+## 🔧 Skills
+
+- HTML, CSS, JavaScript
+- Front-end frameworks like React
+- Responsive web design
+- Version control with Git
+- Basic knowledge of back-end technologies
+
+
