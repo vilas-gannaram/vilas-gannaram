@@ -11,6 +11,6 @@ I’m a self-taught Web Developer with 2.7+ years of IT experience working acros
 ### 🌱 My journey
 
 - Background in Arts (B.A.), but found my passion in the web during college
-- Started learning web development during the COVID lockdown — YouTube, docs & tutorials were my go to stop.
+- Started learning web development during the COVID lockdown — YouTube, docs & tutorials were my go-to stop.
 - Learned by building, breaking, debugging, and shipping small projects
 - That curiosity turned into a career I love and continue to grow in every day
