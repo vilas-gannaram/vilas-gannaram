@@ -1,6 +1,6 @@
 Hi there 👋 I'm Vilas
 
-I’m a self-taught Web Developer with 2.7+ years of IT experience working across the stack. I enjoy building at the intersection of development & design — where code meets creativity.
+I’m a self-taught Web Developer with experience across the stack, passionate about building where development and design meet — where code turns into creativity.
 
 ### 💻 What I do
 
