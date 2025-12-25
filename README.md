@@ -1,22 +1,10 @@
-## Hi there 👋, I'm Vilas
+# Hi, I’m Vilas Gannaram 👋
 
-I’m a self-taught Web Developer who works across the stack and enjoys building things that live on the web.
+Software Engineer (Web-focused) working on production web systems.
 
-### 💻 What I do
+* Web Developer @ **Aganitha Cognitive Solutions**, Hyderabad
+* Build and maintain full‑stack web applications used by real teams
+* Strong focus on JavaScript, Node.js, and backend fundamentals
+* Care about correctness, clarity, and maintainability
 
-- Work as a Web Developer at Aganitha Cognitive Solutions (Hyderabad, India)
-- Build corporate websites, LLM-powered chat apps, and data-driven bioinformatics webapps
-- Work on projects where I handle both code and the small design details that bring it together.
-
-### 🌱 My journey
-
-- Bachelor's Degree in Arts (B.A), but I found my passion in the web during college
-- Started learning web development during the COVID lockdown — YouTube, Docs & tutorials were my go-to stop.
-- Learned by building, breaking, debugging, and shipping small projects
-- That curiosity turned into a career I love and continue to grow in every day
-
-### 🗺️ Exploring Now
-
-- Learning Go to build a stronger foundation in systems and backend.
-- Digging into applied AI — LLMs and how they fit into real products.
-- Tinkering with my Dell — wiped Windows and running Ubuntu single-boot
+> I prefer simple designs, explicit code, and systems that are easy to reason about.
