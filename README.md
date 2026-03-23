@@ -2,7 +2,7 @@
 
 Software Engineer working on web applications and production systems.
 
-* Currently working as Web Developer @ **Aganitha Cognitive Solutions**, Hyderabad
+* Currently working as Web Developer **[@Aganitha Cognitive Solutions](https://www.aganitha.ai/)**
 * Building production systems in the bioinformatics domain
 * Focusing on system behavior, data integrity, and maintainable design
 * I care about correctness, clarity, and long-term maintainability
