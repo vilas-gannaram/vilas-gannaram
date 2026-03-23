@@ -1,10 +1,10 @@
-# Hi, I’m Vilas Gannaram 👋
+## 👋 Hi, I'm Vilas
 
-Software Engineer working on production systems.
+Software Engineer working on web applications and production systems.
 
-* Web Developer @ **Aganitha Cognitive Solutions**, Hyderabad
-* Build and maintain full-stack applications supporting internal business workflows  
-* Focus on backend fundamentals, system behavior, and maintainable service design 
-* Care about correctness, clarity, and maintainability
+* Currently working as Web Developer @ **Aganitha Cognitive Solutions**, Hyderabad
+* Building production systems in the bioinformatics domain
+* Focusing on system behavior, data integrity, and maintainable design
+* I care about correctness, clarity, and long-term maintainability
 
 > I prefer simple designs, explicit code, and systems that are easy to reason about.
