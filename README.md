@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vilas
 
-I’m a Software Engineer at Aganitha, working on web applications and production systems in the bioinformatics domain.
+I'm a Software Engineer working on web applications and backend systems.
 
-I focus on building reliable systems, data integrity, and writing code that’s easy to understand later.
+I enjoy thinking about how systems behave in production, how data flows, and building software that stays simple over time.
